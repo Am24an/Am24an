@@ -32,6 +32,8 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="android" />
   <img width="15" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" height="30" alt="VS Code logo" />
+  <img width="15" />
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="40" alt="dart" />
   <img width="15" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma" />
@@ -50,6 +52,7 @@
 </div>
 <br>
 <p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=am24an&show_icons=true&locale=en&layout=compact" alt="am24an" /></p>
+
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am24an&show_icons=true&locale=en) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=am24an) |
 | --- | --- |
